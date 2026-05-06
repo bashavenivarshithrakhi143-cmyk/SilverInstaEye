@@ -1,3 +1,4 @@
+silverinstaeye.py -u <x_madhu__.00> -informations
 # SilverInstaEye - Instagram OSINT Tool 🔍
 
 ## Overview
